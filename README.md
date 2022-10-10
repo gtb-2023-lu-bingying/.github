@@ -6,5 +6,3 @@
 - *Good Luck!*
 
 
-![**Everything will be fine.**](https://github.com/gtb-2023-lu-bingying/.github/blob/main/ok.jpg)
-
